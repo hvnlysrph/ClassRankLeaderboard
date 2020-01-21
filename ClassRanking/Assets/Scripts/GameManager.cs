@@ -47,13 +47,18 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        teamRank = new string[6];
-        teamRank[0] = team1Key;
-        teamRank[1] = team2Key;
-        teamRank[2] = team3Key;
-        teamRank[3] = team4Key;
-        teamRank[4] = team5Key;
-        teamRank[5] = team6Key;
+        StartCoroutine(RankTeams(.1f));
+    }
+
+    IEnumerator RankTeams(float time)
+    {
+        yield return new WaitForSeconds(time);
+        teamRank = new string[] { team1Key, team2Key, team3Key, team4Key, team5Key, team6Key };
+    }
+
+    void Update()
+    {
+        
     }
 
     public void GetTeamInfo(int index)

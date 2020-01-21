@@ -19,7 +19,7 @@ MonoBehaviour:
     backgroundImg: {fileID: 21300000, guid: 8ee9db169bc70cb4a9553ad7567518ed, type: 3}
     crestImg: {fileID: 1185980393701031824, guid: f5aa749b49186bc41ba8e4bd00bc43ed,
       type: 3}
-  - nameOfTeam: Raid_ShadowLegends
+  - nameOfTeam: RaidShadowLegends
     keyString: rsl4
     backgroundImg: {fileID: 21300000, guid: 4904d33d49d35ba4088694c5e0580cdf, type: 3}
     crestImg: {fileID: 4827099366547525645, guid: 349e719ff7343d94c973213df1527994,
