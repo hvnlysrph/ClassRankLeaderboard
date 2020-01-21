@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 86112095}
   - component: {fileID: 86112096}
-  m_Layer: 9
+  m_Layer: 5
   m_Name: CrystalImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2227446110818770366}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: CrystalCrest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122,6 +122,10 @@ PrefabInstance:
     - target: {fileID: 1594410758273352, guid: bd8ccdb4e5cdec748b02a748346f8c36, type: 3}
       propertyPath: m_Name
       value: Glowing orb 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594410758273352, guid: bd8ccdb4e5cdec748b02a748346f8c36, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4724071812536210, guid: bd8ccdb4e5cdec748b02a748346f8c36, type: 3}
       propertyPath: m_LocalPosition.x
@@ -173,6 +177,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4724071812536210, guid: bd8ccdb4e5cdec748b02a748346f8c36, type: 3}
       propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1059632040896356, guid: bd8ccdb4e5cdec748b02a748346f8c36, type: 3}
+      propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []

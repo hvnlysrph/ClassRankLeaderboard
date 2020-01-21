@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1185980391901116856}
   - component: {fileID: 1185980391901116859}
-  m_Layer: 9
+  m_Layer: 5
   m_Name: New Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1185980393701031827}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: FireShield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126,6 +126,10 @@ PrefabInstance:
     - target: {fileID: 1701138933136228, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1701138933136228, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4184456059989230, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -177,6 +181,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4184456059989230, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
       propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1019309981976610, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1099689646797578, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1581418274471078, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775279156664824, guid: b7356e753d6849945889b9701b3a8bcd, type: 3}
+      propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
