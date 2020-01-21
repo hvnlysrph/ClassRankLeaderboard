@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce36e4963c045b448507299adbf44eb, type: 3}
+  m_Name: 4thPeriod
+  m_EditorClassIdentifier: 
+  classPeriod: 0
+  teamName:
+  - nameOfTeam: 2020 Vision
+    keyString: 2020
+    backgroundImg: {fileID: 21300000, guid: 8ee9db169bc70cb4a9553ad7567518ed, type: 3}
+    crestImg: {fileID: 1185980393701031824, guid: f5aa749b49186bc41ba8e4bd00bc43ed,
+      type: 3}
+  - nameOfTeam: Raid_ShadowLegends
+    keyString: rsl4
+    backgroundImg: {fileID: 21300000, guid: 4904d33d49d35ba4088694c5e0580cdf, type: 3}
+    crestImg: {fileID: 4827099366547525645, guid: 349e719ff7343d94c973213df1527994,
+      type: 3}
+  - nameOfTeam: The Beans
+    keyString: tb4
+    backgroundImg: {fileID: 21300000, guid: 27325c183e856de428f55ee8fc5eeba0, type: 3}
+    crestImg: {fileID: 2227446110818770367, guid: 1f431d1bfe4294f4fbb868446bffa0a4,
+      type: 3}
+  - nameOfTeam: The Rice
+    keyString: tr4
+    backgroundImg: {fileID: 21300000, guid: 99561af3750aed940b9d10bf2dd6c908, type: 3}
+    crestImg: {fileID: 2711857529979047503, guid: 8bc5925cbb0876d4bb310fffe4c30f36,
+      type: 3}

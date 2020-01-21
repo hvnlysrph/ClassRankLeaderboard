@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce36e4963c045b448507299adbf44eb, type: 3}
+  m_Name: 3rdPeriod
+  m_EditorClassIdentifier: 
+  classPeriod: 0
+  teamName:
+  - nameOfTeam: DLC
+    keyString: dlc
+    backgroundImg: {fileID: 21300000, guid: 27325c183e856de428f55ee8fc5eeba0, type: 3}
+    crestImg: {fileID: 7444133223960864136, guid: 35d65ffc43285fa4782d02797a3a395b,
+      type: 3}
+  - nameOfTeam: IranianPlatoon613
+    keyString: ip613
+    backgroundImg: {fileID: 21300000, guid: 963b0882f30835a40b410bd179b1114b, type: 3}
+    crestImg: {fileID: 4827099366547525645, guid: 349e719ff7343d94c973213df1527994,
+      type: 3}
+  - nameOfTeam: Seal Team 6
+    keyString: st6
+    backgroundImg: {fileID: 21300000, guid: 99561af3750aed940b9d10bf2dd6c908, type: 3}
+    crestImg: {fileID: 5091695105591434231, guid: 9192024731c33414d8dbaba2b0e9f2eb,
+      type: 3}
+  - nameOfTeam: Unknown
+    keyString: un3
+    backgroundImg: {fileID: 21300000, guid: a037bbcad831c8540a2a8f35fad83f03, type: 3}
+    crestImg: {fileID: 2227446110818770367, guid: 1f431d1bfe4294f4fbb868446bffa0a4,
+      type: 3}

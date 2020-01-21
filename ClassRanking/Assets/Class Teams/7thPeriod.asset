@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce36e4963c045b448507299adbf44eb, type: 3}
+  m_Name: 7thPeriod
+  m_EditorClassIdentifier: 
+  classPeriod: 0
+  teamName:
+  - nameOfTeam: Dunder Mufflin, Inc.
+    keyString: dm7
+    backgroundImg: {fileID: 21300000, guid: a037bbcad831c8540a2a8f35fad83f03, type: 3}
+    crestImg: {fileID: 5091695105591434231, guid: 9192024731c33414d8dbaba2b0e9f2eb,
+      type: 3}
+  - nameOfTeam: Error 343
+    keyString: e343
+    backgroundImg: {fileID: 21300000, guid: 8ee9db169bc70cb4a9553ad7567518ed, type: 3}
+    crestImg: {fileID: 1406488658903778437, guid: 5d80723457e8e7f45becd75362cef598,
+      type: 3}
