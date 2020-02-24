@@ -19,9 +19,6 @@ MonoBehaviour:
   - key: team1
     value: hhm2
     type: string
-  - key: team3
-    value: tr4
-    type: string
   - key: team4
     value: ym5
     type: string
@@ -33,4 +30,7 @@ MonoBehaviour:
     type: string
   - key: team2
     value: un3
+    type: string
+  - key: team3
+    value: rsl4
     type: string
