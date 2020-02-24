@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5091695105591434224}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: FireMask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5091695106320417861}
   - component: {fileID: 5091695106320417862}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: MaskImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,6 +127,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1420781114590478, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4991515525643942, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -178,6 +182,14 @@ PrefabInstance:
     - target: {fileID: 4991515525643942, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}
       propertyPath: m_LocalScale.y
       value: 9.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085944152172364, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1426085074606904, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 917749466532e5e408d660aba7e8aaa2, type: 3}

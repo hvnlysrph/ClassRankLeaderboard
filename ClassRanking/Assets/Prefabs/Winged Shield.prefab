@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2711857529979047502}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Winged Shield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2711857531032621661}
   - component: {fileID: 2711857531032621660}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: WShieldImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123,6 +123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Glowing orb 16
       objectReference: {fileID: 0}
+    - target: {fileID: 1526387495532482, guid: 892205d4bf7e69e4eae0ba57ec5ba0f3, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4718604443142778, guid: 892205d4bf7e69e4eae0ba57ec5ba0f3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -173,6 +177,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4718604443142778, guid: 892205d4bf7e69e4eae0ba57ec5ba0f3, type: 3}
       propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1717482648874542, guid: 892205d4bf7e69e4eae0ba57ec5ba0f3, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1447569131746212, guid: 892205d4bf7e69e4eae0ba57ec5ba0f3, type: 3}
+      propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []

@@ -16,7 +16,7 @@ MonoBehaviour:
   teamName:
   - nameOfTeam: Maple Syrup
     keyString: ms5
-    backgroundImg: {fileID: 21300000, guid: 7deb7b9324c1a3344851cad9f972d753, type: 3}
+    backgroundImg: {fileID: 21300000, guid: 8ee9db169bc70cb4a9553ad7567518ed, type: 3}
     crestImg: {fileID: 2227446110818770367, guid: 1f431d1bfe4294f4fbb868446bffa0a4,
       type: 3}
   - nameOfTeam: No U

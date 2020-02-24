@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4827099364510022782}
   - component: {fileID: 4827099364510022777}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TurtleImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4827099366547525644}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TurtleCrest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -122,6 +122,10 @@ PrefabInstance:
     - target: {fileID: 1456129382476166, guid: 58cd9a85f39caa9419689e35eb9744dd, type: 3}
       propertyPath: m_Name
       value: Glowing orb 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 1456129382476166, guid: 58cd9a85f39caa9419689e35eb9744dd, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4596373906395364, guid: 58cd9a85f39caa9419689e35eb9744dd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -219,6 +223,14 @@ PrefabInstance:
         type: 3}
       propertyPath: InitialModule.startSize.scalar
       value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1854463320364838, guid: 58cd9a85f39caa9419689e35eb9744dd, type: 3}
+      propertyPath: m_Layer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1881444661647926, guid: 58cd9a85f39caa9419689e35eb9744dd, type: 3}
+      propertyPath: m_Layer
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 198341018570312212, guid: 58cd9a85f39caa9419689e35eb9744dd,
         type: 3}

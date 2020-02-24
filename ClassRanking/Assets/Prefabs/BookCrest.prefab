@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6398428745507024014}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: BookCrest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5534841839113360951}
   - component: {fileID: 5534841839113360950}
-  m_Layer: 9
+  m_Layer: 5
   m_Name: CrestImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -125,7 +125,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1807829847228206, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4445076371115416, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -181,19 +181,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1928540358451588, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1606255724670630, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1578788693899834, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1458548511747996, guid: ef7c204c04204a645acdddf62c197df8, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 198693364310715282, guid: ef7c204c04204a645acdddf62c197df8,
         type: 3}

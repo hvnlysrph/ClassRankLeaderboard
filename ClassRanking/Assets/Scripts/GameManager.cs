@@ -47,12 +47,11 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(RankTeams(.1f));
+        Invoke("RankTeams", 0.1f);
     }
 
-    IEnumerator RankTeams(float time)
+    void RankTeams()
     {
-        yield return new WaitForSeconds(time);
         teamRank = new string[] { team1Key, team2Key, team3Key, team4Key, team5Key, team6Key };
     }
 
